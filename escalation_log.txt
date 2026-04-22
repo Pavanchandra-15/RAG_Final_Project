@@ -1,0 +1,21 @@
+============================================================
+Timestamp    : 2026-04-22 13:25:29
+Question     : What is the CEO's personal phone number?
+Bot Answer   : I don't have enough information to answer this. Let me escalate to a human agent.
+Human Answer : 9019516015
+============================================================
+
+============================================================
+Timestamp    : 2026-04-22 13:25:42
+Question     : What is the CEO's personal phone number?
+Bot Answer   : I don't have enough information to answer this. Let me escalate to a human agent.
+Human Answer : I dont know
+============================================================
+
+============================================================
+Timestamp    : 2026-04-22 13:27:45
+Question     : What is my name?
+Bot Answer   : I don't have enough information to answer this. Let me escalate to a human agent.
+Human Answer : It's Pavan
+============================================================
+
